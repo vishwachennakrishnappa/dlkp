@@ -1,0 +1,15 @@
+dlkp @ git+https://github.com/midas-research/dlkp.git@fdf1de6a113c030569b66a55992f5c2c8bd57716
+numpy
+requests
+tqdm>=4.47.0
+regex
+transformers
+datasets
+scipy
+scikit-learn
+seqeval
+torch
+tensorflow
+tensorboard
+pandas
+tokenizers
